@@ -1,9 +1,5 @@
-base64
-io
-pathlib
+streamlit
+scikit-learn
 pandas
 numpy
-scikit-learn
-streamlit
 plotly
-
