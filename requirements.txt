@@ -1,8 +1,9 @@
-- base64
-- io
-- pathlib
-- pandas
-- numpy
-- scikit-learn
-- streamlit
-- plotly
+base64
+io
+pathlib
+pandas
+numpy
+scikit-learn
+streamlit
+plotly
+
